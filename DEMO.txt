@@ -1,2 +1,5 @@
 Thisis  local
 this remote
+Thisis  local
+this remoteThisis  local
+this remote
